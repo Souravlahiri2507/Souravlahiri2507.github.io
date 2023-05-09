@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0966b61d.css",
-    "main.js": "/static/js/main.32c63c5c.js",
+    "main.js": "/static/js/main.b2a2dcf0.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/lenskart.png": "/static/media/lenskart.85ceac9f07a45893e83a.png",
     "static/media/photo.png.jpeg": "/static/media/photo.png.8bb541b85f69126301a4.jpeg",
@@ -12,11 +12,11 @@
     "static/media/cal.png": "/static/media/cal.5f8b0c7f6c09f7d3df85.png",
     "index.html": "/index.html",
     "main.0966b61d.css.map": "/static/css/main.0966b61d.css.map",
-    "main.32c63c5c.js.map": "/static/js/main.32c63c5c.js.map",
+    "main.b2a2dcf0.js.map": "/static/js/main.b2a2dcf0.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0966b61d.css",
-    "static/js/main.32c63c5c.js"
+    "static/js/main.b2a2dcf0.js"
   ]
 }
