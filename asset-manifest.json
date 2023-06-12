@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1283e5c1.css",
-    "main.js": "/static/js/main.a4bb6168.js",
+    "main.css": "/static/css/main.e1d748e9.css",
+    "main.js": "/static/js/main.2cd6fad7.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/banner.jpg": "/static/media/banner.b346c55c7ce7830c5f81.jpg",
-    "static/media/me.png.jpg": "/static/media/me.png.8bb541b85f69126301a4.jpg",
     "static/media/american.jpg": "/static/media/american.52a0560971659f715495.jpg",
     "static/media/cv.pdf": "/static/media/cv.3d900733e865ecfa607e.pdf",
     "static/media/rentomojo.jpg": "/static/media/rentomojo.23537a8b346e3fd8946a.jpg",
+    "static/media/my.png": "/static/media/my.a18784a0f6b55c311a84.png",
     "static/media/fashion.jpg": "/static/media/fashion.e2a39d453eda8ebdd4ab.jpg",
     "static/media/holiday.jpg": "/static/media/holiday.06e324b411ced87474d9.jpg",
     "index.html": "/index.html",
-    "main.1283e5c1.css.map": "/static/css/main.1283e5c1.css.map",
-    "main.a4bb6168.js.map": "/static/js/main.a4bb6168.js.map",
+    "main.e1d748e9.css.map": "/static/css/main.e1d748e9.css.map",
+    "main.2cd6fad7.js.map": "/static/js/main.2cd6fad7.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1283e5c1.css",
-    "static/js/main.a4bb6168.js"
+    "static/css/main.e1d748e9.css",
+    "static/js/main.2cd6fad7.js"
   ]
 }
